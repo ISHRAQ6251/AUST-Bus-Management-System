@@ -272,5 +272,4 @@ General rules:
 - The NEO-7M needs a **clear sky view**; the first fix can take 5–10 minutes.
 - All bus-to-cloud communication is over **GPRS** (no Wi-Fi in the vehicle).
 - The MPU6050 is wired but **not yet active** in firmware.
-- A licence has not been chosen yet — ask the project leads before reusing code
-  outside the project.
+- This project is released under the **MIT License** — see `LICENSE`.
